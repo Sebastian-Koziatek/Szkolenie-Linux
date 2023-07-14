@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/20. Cat/II. Rozwiązania.md",
-                "mode": "source",
+                "file": "Zadania/19. Find i locate/I. Zadania.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/20. Cat/II. Rozwiązania.md",
+                "file": "Zadania/19. Find i locate/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/20. Cat/II. Rozwiązania.md",
+                "file": "Zadania/19. Find i locate/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/20. Cat/II. Rozwiązania.md"
+                "file": "Zadania/19. Find i locate/I. Zadania.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   "active": "38c0daa23e1fbd06",
   "lastOpenFiles": [
     "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
-    "Zadania/19. Find i locate/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
     "Zadania/20. Cat/II. Rozwiązania.md",
+    "Zadania/19. Find i locate/I. Zadania.md",
     "Zadania/20. Cat/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
@@ -181,7 +182,6 @@
     "Zadania/14. Sieci/I. Zadania.md",
     "Zadania/15. Diagnostyka systemu/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/2. MBR vs GPT.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/III. Uprawnienia i konta administracyjne/3. su.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",

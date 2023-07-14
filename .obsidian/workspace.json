@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "24f5e348e306af6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "32714b56d0edd992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c0daa23e1fbd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zadania/20. Cat/II. Rozwiązania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91fbd6bcc523fc3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25981a6313bcbd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04394065be70cde9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc51002724b1eaf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c530b29f19c50f89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3835197b474b48b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "a8b16ed5da583e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb508389351f709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ae9b0460a972a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zadania/20. Cat/II. Rozwiązania.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dc401f9486fd7f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zadania/20. Cat/II. Rozwiązania.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7094d197476909ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84c340c16714e096",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zadania/20. Cat/II. Rozwiązania.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "38c0daa23e1fbd06",
+  "lastOpenFiles": [
+    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
+    "Zadania/19. Find i locate/I. Zadania.md",
+    "Zadania/20. Cat/II. Rozwiązania.md",
+    "Zadania/20. Cat/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
+    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
+    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
+    "Zadania/14. Sieci/I. Zadania.md",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/2. MBR vs GPT.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/III. Uprawnienia i konta administracyjne/3. su.md",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "grafiki/1_01_1_linux_anagram.png",
+    "grafiki/01.Linux_anagram.png",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba",
+    "grafiki/3_4_1_wprowadzenie2.png",
+    "Zadania/14. Sieci/Bez nazwy",
+    "Zadania/21. Systemy plików",
+    "Zadania/20. Cat",
+    "Zadania/19. Find i locate",
+    "Zadania/18. RHEL/I. Zadania",
+    "Zadania/18. RHEL",
+    "Zadania/Scenariusze pracy",
+    "Zadania/13. Zarządzanie użytkownikami/Scenariusze",
+    "grafiki/3_5_1_chmod.png",
+    "grafiki/3_5_1_chmod2.png",
+    "grafiki/3_5_1_chown.png",
+    "grafiki/3_6_4_route.png",
+    "grafiki/3_6_5_ifcfg_keyfile.png",
+    "grafiki/3_6_7_nmuti1.png",
+    "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
+  ]
+}

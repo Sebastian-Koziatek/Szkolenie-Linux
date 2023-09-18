@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/19. Find i locate/I. Zadania.md",
+                "file": "Zadania/21. Systemy plików/I. Zadania i odpowiedzi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/19. Find i locate/I. Zadania.md",
+                "file": "Zadania/21. Systemy plików/I. Zadania i odpowiedzi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/19. Find i locate/I. Zadania.md",
+                "file": "Zadania/21. Systemy plików/I. Zadania i odpowiedzi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/19. Find i locate/I. Zadania.md"
+                "file": "Zadania/21. Systemy plików/I. Zadania i odpowiedzi.md"
               }
             }
           }
@@ -146,42 +146,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otwórz okno szybkiej zmiany pliku": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
-      "daily-notes:Otwórz dzisiejszą notatkę": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "38c0daa23e1fbd06",
+  "active": "04394065be70cde9",
   "lastOpenFiles": [
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Zadania/20. Cat/II. Rozwiązania.md",
+    "Zadania/17. Crontab/II. Rozwiązania.md",
+    "README.md",
+    "Zadania/14. Sieci/II. Rozwiązania.md",
+    "Zadania/13. Zarządzanie użytkownikami/II. Rozwiązania.md",
+    "Zadania/12. LVM/II. Rozwiązania.md",
+    "Zadania/11. Deamony i systemctl/II. Rozwiązania.md",
+    "Zadania/10. Grub i boot/II. Rozwiązania.md",
+    "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
+    "Zadania/7. Aliasy/II. Rozwiązania.md",
+    "Zadania/5. Praca na powłoce/II. Rozwiązania.md",
+    "Zadania/4. Edytory tekstu/II. Rozwiązania.md",
+    "Zadania/3. Man i info/II. Rozwiązania.md",
+    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
+    "Zadania/19. Find i locate/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
     "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
-    "Zadania/20. Cat/II. Rozwiązania.md",
-    "Zadania/19. Find i locate/I. Zadania.md",
     "Zadania/20. Cat/I. Zadania.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
     "Dział 3 - Zarządzanie systemem Linux/10. SELINUX/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
-    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
-    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/4. Zarządzanie grupami użytkowników.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Zadania/14. Sieci/II. Rozwiązania.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
-    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
-    "Zadania/14. Sieci/I. Zadania.md",
-    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
-    "Dział 3 - Zarządzanie systemem Linux/1. Zarządzanie dyskami/2. MBR vs GPT.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",

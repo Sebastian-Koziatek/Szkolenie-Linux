@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md"
               }
             }
           }
@@ -169,11 +169,17 @@
   },
   "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
-    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
     "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
-    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
+    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
     "Zadania/Scenariusze pracy/1.2 Menadżery pakietów - rozwiązanie.md",
+    "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
+    "Zadania/Scenariusze pracy/3. Systemd.md",
+    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
+    "Zadania/Scenariusze pracy/4. Command line.md",
+    "Zadania/Scenariusze pracy/3. Diagnostyka VM.md",
+    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
+    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
+    "README.md",
     "Zadania/3. Man i info/I. Zadania.md",
     "Zadania/2. Managery pakietów/I. Zadania.md",
     "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
@@ -190,12 +196,6 @@
     "Zadania/7. Aliasy/I. Zadania.md",
     "Zadania/6. Prompt/I. Zadania.md",
     "Zadania/5. Praca na powłoce/I. Zadania.md",
-    "Zadania/5. Praca na powłoce/II. Rozwiązania.md",
-    "Zadania/4. Edytory tekstu/I. Zadania.md",
-    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
-    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/5. OpenRC.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",

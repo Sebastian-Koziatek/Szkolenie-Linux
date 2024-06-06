@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "32714b56d0edd992",
+        "id": "7e40039352a9ccb0",
         "type": "tabs",
         "children": [
           {
-            "id": "38c0daa23e1fbd06",
+            "id": "54ce4d3923152520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md",
-                "mode": "preview",
-                "source": true
+                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "057daa884bba8860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/2. RAID/10. RAID1+0.md"
+                "file": "README.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,35 +167,36 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "04394065be70cde9",
+  "active": "057daa884bba8860",
   "lastOpenFiles": [
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/9. RAID0+1.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/8. RAID6.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/7.  RAID5.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/6. RAID4.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/5. RAID3.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/4. RAID2.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/3. RAID1.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/2. RAID0.md",
-    "Dział 3 - Zarządzanie systemem Linux/2. RAID/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/2. Przegląd i zarządzanie LVM.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/3. Różnice między LVM a RAID.md",
-    "Dział 3 - Zarządzanie systemem Linux/3. LVM/1. Wprowadzenie.md",
-    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/2. Komenda locate.md",
-    "Dział 3 - Zarządzanie systemem Linux/6. Przeszukiwanie systemu/1. Komenda find.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/6. Less, tail, more.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/5. Polecenie cat.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/3. Zarządzanie użytkownikami.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/2. Uprawieniania plików i folderów.md",
-    "Dział 3 - Zarządzanie systemem Linux/5. Konfiguracja systemu/1. Plik fstab.md",
+    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
+    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
+    "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
+    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
+    "Zadania/Scenariusze pracy/1.2 Menadżery pakietów - rozwiązanie.md",
+    "Zadania/3. Man i info/I. Zadania.md",
+    "Zadania/2. Managery pakietów/I. Zadania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
+    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
+    "Zadania/Podsumowanie/1. Zadania.md",
+    "Zadania/Podsumowanie/2. Rozwiazanie.md",
+    "Zadania/Podsumowanie",
+    "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
+    "Zadania/21. Systemy plików/II. Rozwiązania.md",
+    "Zadania/9. Root, sudo, su/I. Zadania.md",
+    "Zadania/8. Symlink i hardlink/I. Zadania.md",
+    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
+    "Zadania/7. Aliasy/II. Rozwiązania.md",
+    "Zadania/7. Aliasy/I. Zadania.md",
+    "Zadania/6. Prompt/I. Zadania.md",
+    "Zadania/5. Praca na powłoce/I. Zadania.md",
+    "Zadania/5. Praca na powłoce/II. Rozwiązania.md",
+    "Zadania/4. Edytory tekstu/I. Zadania.md",
+    "Zadania/2. Managery pakietów/II. Rozwiązania.md",
+    "Dział 2 - Podstawy pracy z systemem Linux/VI. Deamony/5. OpenRC.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/8. System plików ZFS.md",
     "Dział 3 - Zarządzanie systemem Linux/4. System plików/7. System plików Btrfs.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/6. System plików XFS.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/5. Różnice pomiędzy systemami plików EXT.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/4. System plików EXT4.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/3. System plików EXT3.md",
-    "Dział 3 - Zarządzanie systemem Linux/4. System plików/2. System plików EXT2.md",
-    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia LInux.png",
+    "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",
     "Dział 3 - Zarządzanie systemem Linux/11. Samba",
@@ -201,7 +214,6 @@
     "grafiki/3_5_1_chown.png",
     "grafiki/3_6_4_route.png",
     "grafiki/3_6_5_ifcfg_keyfile.png",
-    "grafiki/3_6_7_nmuti1.png",
-    "Dział 3 - Zarządzanie systemem Linux/7. Użytkownicy i grupy"
+    "grafiki/3_6_7_nmuti1.png"
   ]
 }

@@ -1,4 +1,4 @@
-1. Wyświetlanie zawartości pliku na ekranie:
+1. Wyświetlanie zawartości pliku na ekranie:``
 2. Wyświetlanie zawartości wielu plików jednocześnie:
 3. Łączenie zawartości kilku plików i zapisywanie ich do nowego pliku:
 4. Wyświetlanie numerowanych linii w pliku:

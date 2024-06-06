@@ -142,7 +142,6 @@ passwd
 ```
 
 25. Utwórz nowego użytkownika i dodaj go do grup:(audio,disk,floppy,games,lp,network,optical,power,storage,video,wheel)
-
 ```
 useradd -m -g users -G audio,disk,floppy,games,lp,network,optical,power,scanner,storage,video,wheel -s /bin/bash nazwa_uzytkownika
 ```

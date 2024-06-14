@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e40039352a9ccb0",
+        "id": "2d6ec634230fb264",
         "type": "tabs",
         "children": [
           {
-            "id": "54ce4d3923152520",
+            "id": "4eb03e54b35bf308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "057daa884bba8860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
-                "mode": "source",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
+                "file": "Zadania/14. Sieci/I. Zadania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md"
+                "file": "Zadania/14. Sieci/I. Zadania.md"
               }
             }
           }
@@ -167,35 +154,35 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "057daa884bba8860",
+  "active": "4eb03e54b35bf308",
   "lastOpenFiles": [
-    "Zadania/Scenariusze pracy/2. Praca na powłoce.md",
-    "Zadania/Scenariusze pracy/2.1 Praca na powłoce - rozwiazanie.md",
-    "Zadania/Scenariusze pracy/1.2 Menadżery pakietów - rozwiązanie.md",
-    "Zadania/Scenariusze pracy/2. Menagery pakietów.md",
-    "Zadania/Scenariusze pracy/3. Systemd.md",
-    "Zadania/Scenariusze pracy/3.1 Systemd - rozwiązanie.md",
-    "Zadania/Scenariusze pracy/4. Command line.md",
-    "Zadania/Scenariusze pracy/3. Diagnostyka VM.md",
-    "Zadania/Scenariusze pracy/1. Menedżery pakietów.md",
-    "Zadania/Scenariusze pracy/1. Zarządzanie użytkownikami i uprawnieniami.md",
-    "README.md",
-    "Zadania/3. Man i info/I. Zadania.md",
-    "Zadania/2. Managery pakietów/I. Zadania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/I. Zadania.md",
-    "Zadania/1. Wprowadzenie do systemu Linux/II. Rozwiązania.md",
-    "Zadania/Podsumowanie/1. Zadania.md",
-    "Zadania/Podsumowanie/2. Rozwiazanie.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/10. Plik hosts.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/4. Route.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/7. nmtui.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/6. Pliki konfiguracyjne połączeń sieciowych.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/5. Graficzne konfiguratory sieci.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/3. Różnice między ipconfig a IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/2. pakiet IP.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/1. ifconfig.md",
+    "Zadania/15. Diagnostyka systemu/I. Zadania.md",
+    "Zadania/14. Sieci/I. Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/8. Metody testowania sieci.md",
+    "Zadania/16. Instalacja Arch Linux/Instrukcja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/3. Konfiguracja.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/2. Plik konfiguracyjny.md",
+    "Dział 3 - Zarządzanie systemem Linux/11. Samba/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/6. Firewalld.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/5. Scenariusz.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/4. Składnia i opcje.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/3. Targets.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/2. Tables and chains.md",
+    "Dział 3 - Zarządzanie systemem Linux/9. IPTABLE/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/7. Konfiguracja sieci/9. nmap.md",
+    "Zadania/17. Crontab/I.  Zadania.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/1. Wprowadzenie.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/2. Polecenia.md",
+    "Dział 3 - Zarządzanie systemem Linux/8. Crontab/3. Syntax czasu.md",
     "Zadania/Podsumowanie",
-    "Zadania/9. Root, sudo, su/II. Rozwiązania.md",
-    "Zadania/21. Systemy plików/II. Rozwiązania.md",
-    "Zadania/9. Root, sudo, su/I. Zadania.md",
-    "Zadania/8. Symlink i hardlink/I. Zadania.md",
-    "Zadania/8. Symlink i hardlink/II. Rozwiązania.md",
-    "Zadania/7. Aliasy/II. Rozwiązania.md",
-    "Zadania/7. Aliasy/I. Zadania.md",
-    "Zadania/6. Prompt/I. Zadania.md",
-    "Zadania/5. Praca na powłoce/I. Zadania.md",
     "Dział 1 - Wprowadzenie do systemu/I. Wprowadzenie do systemu Linux/2. Historia kernela.png",
     "grafiki/1_01_1_linux_anagram.png",
     "grafiki/01.Linux_anagram.png",

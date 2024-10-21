@@ -1,4 +1,4 @@
-1. Czym jest yum?*
+1. Czym jest yum?
 2. Czym rózni się YUM od APT?
 3. Czym jest repozytorium
 4. Wyświetl listę zainstalowanych przez managera yum paczek.
@@ -11,7 +11,7 @@
 11. Czym się rózni polecenie yum update od yum upgrade?
 12. Wyszukaj w repozytorium paczkę "wget" oraz "mc"
 13. Zainstaluj te pakiety ("wget" oraz "mc"). *wymaga root, do poprawy*
-14.  **Bazując na informacjach zadnia 10 zaktualizuj pojedyńczy zainstalowany pakiet.**
-15.   **Wyświetl historie działań managera pakietów yum**
+14. Zaktualizuj pojedyńczy zainstalowany pakiet.
+15.  **Wyświetl historie działań managera pakietów yum**
 16. **Wyczyś cache, metadane i nagłówki managera pakietów**.
 
